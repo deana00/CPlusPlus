@@ -1,7 +1,7 @@
 /*
 Program	Name 	: User Defined Type Case
-Created by	 	: Ardella Dean Awalia
-Student ID	 	: 1917051024
+Created by	: Ardella Dean Awalia
+Student ID	: 1917051024
 Starting Date	: Dec 6th 2020
 Finishing Date	: Dec 7th 2020
 
