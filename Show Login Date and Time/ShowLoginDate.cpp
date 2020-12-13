@@ -70,7 +70,6 @@ int main() {
 	else
 		cout << "Username or Password is Incorrect. Please try again or contact the Administator." << endl;
 
-
 	return 0;
 }
 
