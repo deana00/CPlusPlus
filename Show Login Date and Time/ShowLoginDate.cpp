@@ -1,7 +1,7 @@
 /*
 Program	Name 	: Showing Local Login Date and Time
-Created by	 	: Ardella Dean Awalia
-Student ID	 	: 1917051024
+Created by	: Ardella Dean Awalia
+Student ID	: 1917051024
 Starting Date	: Dec 4th 2020
 Finishing Date	: Dec 6th 2020
 
